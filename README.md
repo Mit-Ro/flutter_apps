@@ -1,2 +1,2 @@
 # flutter_apps
-My First App
+My First Flutter App.
